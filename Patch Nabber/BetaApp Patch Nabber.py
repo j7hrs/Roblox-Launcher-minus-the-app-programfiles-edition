@@ -8,7 +8,7 @@ from json import loads
 a = urlopen("https://clientsettingscdn.roblox.com/v2/client-version/WindowsPlayer/channel/zflag").read()
 a = loads(a)["clientVersionUpload"]
 print("Client version hash: "+a)
-filepath = getenv("LOCALAPPDATA")+"\Roblox\Versions\\"
+filepath = getenv("ProgramFiles(x86)")+"\Roblox\Versions\\"
 
 def littleTimmyPrevention():
     input("Did you install Roblox via running RobloxPlayerLauncher as administrator?\nTry reinstalling Roblox.\nDon't open a new issue regarding this if you installed Roblox to a non-User directory!")
