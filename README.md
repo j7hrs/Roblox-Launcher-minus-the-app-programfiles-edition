@@ -1,3 +1,5 @@
+# THIS HAS BEEN EDITED FOR THOSE WHO CAN'T RUN ROBLOXPLAYERLAUNCHER AS AN NON-ADMIN. IF YOU CAN RUN IT AS AN NON-ADMIN, PLEASE REFER TO THE ORIGINAL BRANCH.
+
 # Roblox-Launcher-minus-the-app
 
 A custom-made Roblox Launcher. Why would I keep patching Roblox's abhorrent launcher, when I can build my own! 
